@@ -1,0 +1,12 @@
+{
+  "name": "hls-vercel-proxy",
+  "version": "1.0.0",
+  "description": "HLS proxy using Vercel Edge Functions",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^33.0.1"
+  }
+}
